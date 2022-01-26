@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #ebeb0d;
+    background: -webkit-linear-gradient(to right, #969599, #969599);
+    background: linear-gradient(to right, #D4D3DD, #EFEFBB);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'arial black';
+    margin: 0;
+}
